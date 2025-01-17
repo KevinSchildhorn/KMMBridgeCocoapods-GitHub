@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name                     = 'allshared'
-    spec.version                  = '0.1.0'
+    spec.version                  = '0.1.0-github'
     spec.homepage                 = 'https://www.touchlab.co'
     spec.source                   = { :http=> ''}
     spec.authors                  = ''
